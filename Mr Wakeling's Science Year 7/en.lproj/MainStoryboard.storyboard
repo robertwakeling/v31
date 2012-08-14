@@ -1914,8 +1914,8 @@
                                 <color key="textColor" red="0.99215692280000001" green="0.0078431377190000002" blue="0.59215688710000003" alpha="1" colorSpace="deviceRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="or so, there is a cycle called the" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumFontSize="10" id="qAf-In-mSA">
-                                <rect key="frame" x="266" y="63" width="423" height="46"/>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="days or so, there is a cycle called the" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumFontSize="10" id="qAf-In-mSA">
+                                <rect key="frame" x="269" y="63" width="470" height="46"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" name="Chalkduster" family="Chalkduster" pointSize="20"/>
                                 <color key="textColor" red="0.99215692281723022" green="0.0078431377187371254" blue="0.59215688705444336" alpha="1" colorSpace="deviceRGB"/>
